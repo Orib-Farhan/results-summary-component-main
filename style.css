@@ -24,6 +24,7 @@
     justify-content: center;
     background-color: hsla(256, 72%, 46%, 1);
     align-items: center;
+    background-image: linear-gradient(hsla(256, 72%, 46%, 1),rgb(96, 43, 243));
 }
 
 .seventysix {
